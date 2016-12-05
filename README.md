@@ -1,2 +1,3 @@
-# NerdBird
-Nerd Bird Esports Website
+# nb
+
+Website for Nerd Bird
