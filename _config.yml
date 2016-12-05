@@ -1,0 +1,13 @@
+# Welcome to Nerd Bird
+title: Nerd Bird
+description: 
+baseurl: "/NerdBird" # the subpath of your site
+url: "https://kaitlin1.github.io"
+email: 
+github_username:  kaitlin1
+linkedin_username: 
+twitter_username: 
+
+# Build settings
+markdown: kramdown
+sass:
