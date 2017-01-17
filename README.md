@@ -1,10 +1,10 @@
 # Nerd Bird (www.nerd-bird.net)
 
-### Website for Nerd Bird / Nerd Bird Esports.
+### Website for Nerd Bird.
 
-+ Facebook: NerdBirdSA or search 'Nerd Bird Esports'
++ Facebook: NerdBirdTX or search 'Nerd Bird'
   
-+ Twitter: @NerdBirdSA or seatch 'Nerd Bird Esports'
++ Twitter: @NerdBirdSA or search 'Nerd Bird'
   
 + Youtube: NerdBirdSA
   
@@ -12,8 +12,8 @@
 
 ### Goal + Mission of Nerd Bird: 
 
-  To provide tournaments and events to the San Antonio League of Legends community, via online tournaments and irl events.
-  We work to create elo-balanced tournament so that players of all rank, skill and age can compete and win.
+  We're a League of Legends community based in San Antonio, TX. We host LAN parties and online League of Legends
+  tournaments. We work to create elo-balanced tournament so that players of all rank, skill and age can compete and win.
 
 ### Staff Consists of:
 
